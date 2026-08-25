@@ -1,12 +1,12 @@
 # MVP — Predição de Diabetes em Pacientes Pima
 
-**Disciplina:** Machine Learning & Deep Learning — Universidade de Brasília
+**Disciplina:** Sistemas de Suporte a Decisão — Universidade de Brasília
 **Professor:** Prof. Dr. André Luiz Marques Serrano
 **Base:** *Pima Indians Diabetes Database* (768 pacientes, 8 variáveis clínicas + alvo)
 
 ## Conteúdo
 
-- `MVP_Predicao_Diabetes_Pima.ipynb` — notebook completo, já executado, com todas as saídas embutidas (gráficos, tabelas, métricas).
+- `MVP_Predicao_Diabetes_Pima.ipynb` — notebook completo
 - `pima.csv` — base de dados usada (sem cabeçalho; colunas nomeadas dentro do notebook).
 
 ## Estrutura do notebook
